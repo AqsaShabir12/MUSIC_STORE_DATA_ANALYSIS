@@ -10,7 +10,7 @@ The project is divided into three difficulty levels:
 
 ---
 
-## Question Set 1 
+## Set 1 
 
 1. Identify the **senior-most employee** based on job title.
 2. Find the **countries with the most invoices**.
@@ -20,7 +20,7 @@ The project is divided into three difficulty levels:
 
 ---
 
-## Question Set 2
+## Set 2
 
 1. List **email, first name, last name, and genre** of all Rock music listeners, ordered by email.
 2. Return the **top 10 artists** who have written the most Rock music tracks.
@@ -28,7 +28,7 @@ The project is divided into three difficulty levels:
 
 ---
 
-## Question Set 3 
+## Set 3 
 
 1. Calculate how much each customer **spent on each artist**.
 2. Identify the **most popular music genre by country** based on the number of purchases. If a tie exists, return all genres.
